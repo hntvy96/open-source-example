@@ -60,7 +60,7 @@ public class RateServiceTest {
     public void setup() {
         MockitoAnnotations.initMocks(this);
     }
-
+ 
     @Test
     public void rateCalculationTest() {
 
